@@ -1,0 +1,459 @@
+{
+  "_note": "Facts and structure captured from evolvepeptides.com on 2026-10-14 for reference while redesigning. Long marketing prose and legal text (Terms, Privacy, Waiver, product descriptions) were intentionally NOT copied. Emails on the source site are hidden behind Cloudflare, so none were captured. Rewrite wording and use your client's own contact details, policies and legal text.",
+  "platform": {
+    "stack": "WordPress + WooCommerce, Elementor, Rey theme, Rank Math SEO, Contact Form 7",
+    "compliance": "Shipping restrictions are managed by a 'WAAVE compliance' plugin (mentioned on the shipping page)",
+    "product_count": 108,
+    "brand_page": "https://www.evolvepeptides.com/brand/evolve-peptides/"
+  },
+  "age_gate": {
+    "minimum_age": 21,
+    "buttons": [
+      "Yes, I'm 21 or older",
+      "No"
+    ],
+    "disclaimer_points": [
+      "research use only (in vitro laboratory use)",
+      "not for human or animal consumption",
+      "FDA has not evaluated the products"
+    ]
+  },
+  "announcement_bar": [
+    "USA-Lyophilized & Domestic Delivery!",
+    "BUY 2, GET 1 FREE | 3rd peptide free",
+    "Free same-day shipping on orders over $200!"
+  ],
+  "navigation": {
+    "header": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Shop",
+        "url": "/product-category/peptides/"
+      },
+      {
+        "label": "Affiliates",
+        "url": "/peptide-affiliate-program/"
+      },
+      {
+        "label": "Wholesale",
+        "url": "/wholesale-peptides/"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact/"
+      },
+      {
+        "label": "Why Us?",
+        "url": "/why-choose-us/"
+      }
+    ],
+    "header_icons": [
+      "Search",
+      "Account (login / register)",
+      "Cart",
+      "Wishlist"
+    ],
+    "footer_columns": {
+      "Shop Peptides": [
+        "GLP-3 RT",
+        "GLP-2 TZ",
+        "BPC-157",
+        "GLOW",
+        "Reconstitution Solution"
+      ],
+      "Support": [
+        "Privacy Policy",
+        "Shipping Policy",
+        "Returns & Refunds",
+        "Terms & Conditions",
+        "Waiver Agreement"
+      ],
+      "About Us": [
+        "Our Guarantee",
+        "About Us",
+        "Contact",
+        "FAQs",
+        "COA Lookup"
+      ]
+    },
+    "footer_disclaimer_points": [
+      "Evolve Peptides is a chemical supplier, not a 503A compounding pharmacy or 503B outsourcing facility",
+      "Products are for research purposes only, not for human consumption or medical use",
+      "FDA has not evaluated the claims on the site"
+    ],
+    "newsletter": "Sign up for 10% off your first order (also: loyalty offers, restocks, new peptide launches)"
+  },
+  "pages": [
+    "/",
+    "/shop/",
+    "/product-category/peptides/",
+    "/product-category/capsules/",
+    "/product-category/research-accessories/",
+    "/new-arrivals/",
+    "/why-choose-us/",
+    "/about/",
+    "/our-guarantee/",
+    "/frequently-asked-questions/",
+    "/coa-lookup/",
+    "/test-results/",
+    "/wholesale-peptides/",
+    "/peptide-affiliate-program/",
+    "/contact/",
+    "/contact-us/",
+    "/order-tracking/",
+    "/shipping-policy/",
+    "/returns-refunds/",
+    "/terms-conditions/",
+    "/privacy-policy/",
+    "/waiver-agreement/",
+    "/blog/ (empty)",
+    "/collections/ (leftover template page with placeholder text)",
+    "/cart/",
+    "/checkout/",
+    "/my-account/",
+    "/wishlist/"
+  ],
+  "home_page_sections": [
+    "Age gate modal",
+    "Announcement bar + header",
+    "Hero: headline, subline, 3 check-mark claims, buttons SHOP PEPTIDES and COA LOOKUP",
+    "4 value tiles: Potency & Purity Guaranteed / Verified by Independent Labs / Dedicated End-to-End Support / 100% Satisfaction Guaranteed",
+    "Best Sellers grid (8 products, LOAD MORE button)",
+    "'The standard behind every vial': 6 stat cards",
+    "'Every batch faces four independent tests': Purity (HPLC), Sterility, Endotoxins (LAL), Heavy Metals",
+    "COA lookup call to action",
+    "3 big stats row",
+    "Newsletter signup (10% off)",
+    "Footer"
+  ],
+  "home_best_sellers_order": [
+    "GLP-3 RT 5 mg",
+    "GLP-3 RT 10 mg",
+    "GLP-3 RT 20 mg",
+    "GLOW Peptide Blend (70mg)",
+    "GLP-3 RT 30 mg",
+    "GLP-3 RT 15 mg",
+    "GLP-2 TZ 30 mg",
+    "CJC-1295 & Ipamorelin Blend (5/5 mg)"
+  ],
+  "hero": {
+    "h1": "US-Lyophilized Research Peptides, Verified 5x by American Third-Party Laboratories",
+    "claims": [
+      "Lyophilized in the USA under strict conditions",
+      "Independently verified by various third-party labs",
+      "Rapid and discreet same-day shipping (before 1 PM EST)"
+    ],
+    "buttons": [
+      "SHOP PEPTIDES -> /product-category/peptides/",
+      "COA LOOKUP -> /coa-lookup/"
+    ]
+  },
+  "stat_cards": [
+    {
+      "title": "Rigorous Third-Party Testing",
+      "stat": ">99%",
+      "label": "purity, verified on every batch"
+    },
+    {
+      "title": "200% Money-Back Guarantee",
+      "stat": "200%",
+      "label": "refunded if the label is wrong"
+    },
+    {
+      "title": "Rapid Same-Day Shipping",
+      "stat": "Same day",
+      "label": "orders before 1 PM EST, Mon to Fri"
+    },
+    {
+      "title": "Lyophilized in the USA",
+      "stat": "100%",
+      "label": "US made, US shipped"
+    },
+    {
+      "title": "We Respond in Minutes, Not Days",
+      "stat": "91%",
+      "label": "of 800+ surveyed prefer our support"
+    },
+    {
+      "title": "COA on Every Batch",
+      "stat": "24/7",
+      "label": "self-serve COA lookup"
+    }
+  ],
+  "big_stats": [
+    {
+      "stat": "86%",
+      "label": "of orders reach customers within 24-48 hours (Mon-Fri)"
+    },
+    {
+      "stat": "91%",
+      "label": "of customers prefer the service over other brands (800 surveyed of 6000+ customers)"
+    },
+    {
+      "stat": "79%",
+      "label": "have made at least one repeat purchase"
+    }
+  ],
+  "testing": {
+    "labs": [
+      "Chromate",
+      "Janoshik",
+      "MZ Biolabs"
+    ],
+    "tests_per_batch": [
+      "Purity (HPLC)",
+      "Sterility",
+      "Endotoxins (LAL)",
+      "Heavy metals (lead, arsenic, mercury, cadmium)"
+    ],
+    "coa_lookup": {
+      "url": "/coa-lookup/",
+      "input": "batch number from the vial label",
+      "returns": "Certificate of Analysis and endotoxin report"
+    },
+    "manufacturing_claims": [
+      "lyophilized in the USA",
+      "GMP and ISO 9001:2015 manufacturers",
+      "purity >99%, no TFA/fillers"
+    ],
+    "public_test_results_page": [
+      {
+        "item": "Semaglutide 5 mg",
+        "date": "2024-10-21"
+      },
+      {
+        "item": "Tirz. 10 mg",
+        "date": "2024-10-21"
+      },
+      {
+        "item": "BPC-157 5 mg",
+        "date": "2024-11-18"
+      },
+      {
+        "item": "TB-500 5 mg",
+        "date": "2024-11-18"
+      }
+    ]
+  },
+  "shop_page": {
+    "category_filter": [
+      {
+        "name": "Peptides",
+        "count": 108
+      },
+      {
+        "name": "Capsules",
+        "count": 8
+      },
+      {
+        "name": "Research Accessories",
+        "count": 1
+      }
+    ],
+    "price_filter_buckets": [
+      "Under $99",
+      "$100-$199",
+      "$200-$499",
+      "$500-$999",
+      "Over $1000"
+    ],
+    "sort_options": [
+      "Popularity (default)",
+      "Latest",
+      "Price: low to high",
+      "Price: high to low"
+    ],
+    "per_page_options": [
+      40,
+      80,
+      160
+    ],
+    "default_per_page": 40,
+    "grid_view_options": [
+      2,
+      3,
+      4
+    ],
+    "badges": [
+      "Save $X (sale)",
+      "NEW",
+      "SOLD OUT (with 'Email me when available' waitlist)"
+    ],
+    "search_trending": [
+      "sema",
+      "bpc-157",
+      "tirz",
+      "aod-9604",
+      "cjc-1295"
+    ]
+  },
+  "product_page_template": {
+    "layout": [
+      "breadcrumb Home > Peptides > product",
+      "image gallery (product shot plus COA / lab report images)",
+      "title",
+      "price (regular struck through + sale)",
+      "stock status",
+      "size selector (links to the sibling size products)",
+      "'Need larger quantities? Contact us for bulk savings' note",
+      "quantity + Add to Cart + Add to wishlist",
+      "SKU",
+      "accordion tabs",
+      "Why Choose Us block (4 points)",
+      "Related products"
+    ],
+    "accordion_tabs": [
+      "Description",
+      "Chemical Information (contents, formula, PubChem, CAS, molecular weight, storage, purity)",
+      "Shipping Information"
+    ],
+    "notes_shown": [
+      "Provided as a lyophilized powder in a sterile glass vial; buyer supplies reconstitution solution and alcohol pads",
+      "Ships same-day if ordered before 12 PM EST",
+      "Estimated delivery 2-5 days"
+    ],
+    "shipping_tab": "Orders placed before 1 PM EST ship same day. USPS for most deliveries, 2-5 business days after leaving the warehouse.",
+    "why_choose_us_points": [
+      "Lyophilized in the US, 99%+ purity guaranteed",
+      "Rigorously third-party tested, always",
+      "We respond in minutes, not days",
+      "200% money-back guarantee"
+    ],
+    "each_size_is_its_own_product": true
+  },
+  "shipping": {
+    "countries": "United States and Canada per the Shipping Policy page (the FAQ says US only: sources disagree)",
+    "rates_us": [
+      {
+        "method": "Standard Shipping",
+        "transit": "2-5 business days",
+        "price": 14.9,
+        "free_over": 200
+      },
+      {
+        "method": "Two-Day Shipping",
+        "transit": "2 business days",
+        "price": 25.9
+      },
+      {
+        "method": "Overnight Shipping",
+        "transit": "1 business day",
+        "price": 52.9
+      }
+    ],
+    "handling_time": "0-1 business days",
+    "order_cutoff": "12:00 PM Eastern (Shipping Policy) / 1 PM EST (homepage and product tab): sources disagree",
+    "tracking": "Tracking email on the day the order ships; contact support if none within 5 business days",
+    "carrier": "USPS for most deliveries",
+    "canada": "Options and rates shown at checkout; customs may add time"
+  },
+  "guarantee_and_returns": {
+    "return_window_days": 60,
+    "return_window_starts": "tracking confirms delivery",
+    "rma_required": true,
+    "eligible": [
+      "unopened, unused, unaltered, within expiry",
+      "up to two opened items per customer (Our Guarantee page)"
+    ],
+    "return_shipping_paid_by": "customer",
+    "refund_method": "original payment method, usually within 2-3 days of receiving the return",
+    "void_conditions": "any sign of human or animal use voids guarantees",
+    "headline_guarantees": [
+      "200% money-back if purity does not match the label",
+      "'Results-or-Refund' guarantee",
+      "free replacement of product used for customer's own third-party testing (send test results + order number)"
+    ],
+    "wholesale_page_says": "10-day window for damaged/incorrect items: differs from the 60-day policy"
+  },
+  "faq_topics": [
+    "Who is Evolve Peptides",
+    "What are peptides",
+    "Do you ship internationally (US only at the time, Europe planned)",
+    "Wholesale pricing (orders over 15 vials: email for a personalized discount)",
+    "How long does shipping take",
+    "How are peptides stored and delivered (lyophilized powder, stored frozen, use reconstitution solution)",
+    "Can I test your peptides with my own lab (yes, replaced free)"
+  ],
+  "affiliate_program": {
+    "commission": "15% on every qualifying order, repeat orders included, whole catalog",
+    "audience_discount": "15% via personal code",
+    "cost_to_join": 0,
+    "approval": "typically same day, no minimum audience",
+    "cookie_days": 180,
+    "payout": "monthly via PayPal, dashboard shows clicks / orders / earnings in real time",
+    "average_order_value": "$200+",
+    "rules": [
+      "non-exclusive",
+      "research-use-only messaging only, no human-use claims",
+      "disclose affiliate relationship (FTC)"
+    ],
+    "page_sections": [
+      "hero with 4 stat tiles",
+      "3-step how it works",
+      "commission example",
+      "comparison table vs other programs",
+      "why partner (4 cards)",
+      "who it is for",
+      "terms (cookie, payout, recurring, non-exclusive)",
+      "FAQ",
+      "final CTA"
+    ]
+  },
+  "wholesale": {
+    "offers": [
+      "bulk research peptides",
+      "white-label / custom-labeled vials",
+      "custom peptide synthesis (crude to >99% purity; phosphorylation, acetylation/amidation, biotinylation, fluorescent tags, unusual residues)",
+      "COA with every batch"
+    ],
+    "bulk_threshold": "orders over 15 vials get a personalized discount by email",
+    "sample_catalog_table_columns": [
+      "Peptide Name",
+      "Typical Vial Sizes",
+      "Research Use Applications"
+    ],
+    "page_sections": [
+      "intro",
+      "purity and consistency standards",
+      "peptide table",
+      "research segments (universities, biotech, independent researchers)",
+      "tailored solutions (rates, white-label, custom synthesis)",
+      "guarantee and returns",
+      "closing CTA"
+    ]
+  },
+  "account_and_cart": {
+    "features": [
+      "login / register / forgot password",
+      "wishlist",
+      "order tracking (Order ID + billing email)",
+      "shopping bag + recently viewed in the cart drawer",
+      "search with trending terms",
+      "back-in-stock email waitlist"
+    ]
+  },
+  "contact": {
+    "support_hours": "7 days per week, replies within about 12 hours",
+    "sections": [
+      "Customer Service",
+      "Wholesale Inquiries",
+      "Mailing Address (RMA required before any return)"
+    ],
+    "source_site_addresses_for_reference_only": [
+      "5830 E 2nd St, Casper, WY 82609 (footer and Contact page)",
+      "1691 Forum Place, Suite B, West Palm Beach, FL 33401 (Shipping Policy page)"
+    ]
+  },
+  "known_inconsistencies_on_source_site": [
+    "Cutoff time: 12 PM ET vs 1 PM EST",
+    "Shipping countries: US + Canada vs US only",
+    "Return window: 60 days vs 10 days (wholesale page)",
+    "Two different mailing addresses",
+    "'Lyophilized in Texas' on product pages vs 'USA' elsewhere",
+    "Product 'KLOW 80 mg' has URL slug kglow-50-10-10-10",
+    "/collections/ and /new-arrivals/ pages still contain template placeholder text"
+  ]
+}
